@@ -32,3 +32,5 @@ shop_project/
 ├── main.py                      # Dastur boshlanish nuqtasi
 └── requirements.txt             # Rich kutubxonasi va boshqa kerakli modullar
 ```
+
+
